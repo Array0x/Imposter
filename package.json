@@ -1,0 +1,35 @@
+{
+  "name": "imposter",
+  "version": "1.0.0",
+  "description": "The Imposter Discord Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FexorDEV",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "common-tags": "^1.8.0",
+    "config": "^3.3.6",
+    "dblapi.js": "^2.4.1",
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.3",
+    "edit-json-file": "^1.6.0",
+    "express": "^4.17.1",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "mal-scraper": "^2.11.3",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.0.4",
+    "nekos.life": "^2.0.7",
+    "node-fetch": "^2.4.3",
+    "node-osu": "^2.2.1",
+    "os": "^0.1.2",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "urban.js": "^2.4.3",
+    "ytdl-core": "^4.9.1"
+  }
+}
